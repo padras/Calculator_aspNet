@@ -1,0 +1,6 @@
+resources
+
+https://codepen.io/andrey-pad-as/pen/YmPoRe
+
+
+https://fernandoruizrico.com/calculadora-basica-con-html-css-javascript/
